@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <Head>
         <title>Asistente Wash and Flow</title>
-        <meta name="description" content="Tu guía para elegir la mejor franquicia de lavandería autoservicio." />
+        <meta name="description" content="Tu asistente para elegir la mejor franquicia de lavandería" />
       </Head>
       <main className="flex justify-center items-center min-h-screen bg-gray-100">
         <AsistenteWashAndFlow />
