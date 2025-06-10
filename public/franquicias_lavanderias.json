@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Wash and Flow",
+    "inversion_minima": 80000,
+    "inversion_maxima": 152000,
+    "retorno_estimado": "2-3 a\u00f1os"
+  },
+  {
+    "nombre": "Laundry Park",
+    "inversion_minima": 135000,
+    "inversion_maxima": 135000,
+    "retorno_estimado": "No disponible"
+  }
+]
